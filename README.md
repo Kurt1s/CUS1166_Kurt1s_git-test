@@ -1,5 +1,3 @@
 # CUS 1166 Software Engineering
 
-~Git Tutorial
-
-~Introduction to Python
+See index.html for My Name and List of Courses
